@@ -16,6 +16,8 @@ Tableau de bord interactif en Python analysant 40 ans d'opérations de sauvetage
 
 `Python` `Dash` `Plotly` `Pandas` `SQLite` `pytest`
 
+**Version en ligne :** [secmar-224940021910.europe-west1.run.app](https://secmar-224940021910.europe-west1.run.app)
+
 ### [Smart Coach — Coaching sportif par vision par ordinateur](https://github.com/victor-vignot/smart-coach)
 Application qui accompagne les sportifs pendant leurs séances : analyse des mouvements et retour en temps réel sur la posture.
 - Estimation de pose humaine avec BlazePose GHUM 3D (MediaPipe)
